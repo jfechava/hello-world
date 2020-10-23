@@ -1,7 +1,7 @@
 <html>
 <head>
   <meta charset="utf-8">
-  <title>Sample Deployment with Jenkins CI-CD</title>
+  <title>Sample Deployment with Jenkins CI CD</title>
   <style>
     body {
       color: #ffffff;
