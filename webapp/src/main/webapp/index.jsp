@@ -4,8 +4,8 @@
   <title>Sample Deployment with Jenkins CI CD</title>
   <style>
     body {
-      color: #ffffff;
-      background-color: #0188cc;
+      color: black;
+      background-color: #fefbd8;
       font-family: Arial, sans-serif;
       font-size: 14px;
     }
@@ -26,7 +26,7 @@
 <body>
   <div align="center">
     <h1>Web Application</h1>
-    <h2>This application was deployed for testing purposes - Deploying to container.</h2>
+    <h2>This application was deployed for testing purposes - Deploying using Jenkins, Kubernetes, others.</h2>
   </div>
 </body>
 </html>
