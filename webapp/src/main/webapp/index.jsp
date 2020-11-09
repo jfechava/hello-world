@@ -26,7 +26,7 @@
 <body>
   <div align="center">
     <h1>Web Application</h1>
-    <h2>This application was deployed for testing purposes - Deploying using Jenkins, Kubernetes, others - changed</h2>
+    <h2>This application was deployed for testing purposes - Deploying using Jenkins, Kubernetes, others</h2>
   </div>
 </body>
 </html>
